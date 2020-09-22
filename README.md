@@ -1,2 +1,2 @@
 # Tese-de-Gradua-o
-Trabalho para Graduação no ITA
+Trabalho para Graduacao no ITA
